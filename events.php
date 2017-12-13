@@ -21,66 +21,92 @@ include('header.php');
         <tr>
           <th>Date</th>
           <th>Name</th>
-          <th>Details/Rituals</th>
-          <th>More Info</th>
         </tr>
       </thead>
       <tbody>
         <tr>
-          <td data-title="Date">19/2/1993</td>
+          <td data-title="Date">03/12/2017</td>
           <td data-title="Details/Retiauls">
-            Birth Of Lord Shiva
+            Punam
           </td>
-          <td data-title="Name">Maha-Shivratri</td>
-          <td data-title="More Info"><a href="#">Link</a></td>
         </tr>
         <tr>
-          <td data-title="Date">19/2/1993<br/>Tuesday</td>
-          <td data-title="Name">Maha-Shivratri</td>
+          <td data-title="Date">02/01/2018</td>
           <td data-title="Details/Retiauls">
-            Birth Of Lord Shiva
+            Punam
           </td>
-          <td data-title="More Info"><a href="#">Link</a></td>
         </tr>
         <tr>
-          <td data-title="Date">19/2/1993<br/>Tuesday</td>
-          <td data-title="Name">Maha-Shivratri</td>
+          <td data-title="Date">31/01/2018</td>
           <td data-title="Details/Retiauls">
-            Birth Of Lord Shiva
+            Punam
           </td>
-          <td data-title="More Info"><a href="#">Link</a></td>
         </tr>
         <tr>
-          <td data-title="Date">19/2/1993<br/>Tuesday</td>
-          <td data-title="Name">Maha-Shivratri</td>
+          <td data-title="Date">02/03/2018</td>
           <td data-title="Details/Retiauls">
-            Birth Of Lord Shiva
+            Punam
           </td>
-          <td data-title="More Info"><a href="#">Link</a></td>
         </tr>
         <tr>
-          <td data-title="Date">19/2/1993<br/>Tuesday</td>
-          <td data-title="Name">Maha-Shivratri</td>
+          <td data-title="Date">31/03/2018</td>
           <td data-title="Details/Retiauls">
-            Birth Of Lord Shiva
+            Punam
           </td>
-          <td data-title="More Info"><a href="#">Link</a></td>
         </tr>
         <tr>
-          <td data-title="Date">19/2/1993<br/>Tuesday</td>
-          <td data-title="Name">Maha-Shivratri</td>
+          <td data-title="Date">30/04/2018</td>
           <td data-title="Details/Retiauls">
-            Birth Of Lord Shiva
+            Punam
           </td>
-          <td data-title="More Info"><a href="#">Link</a></td>
         </tr>
         <tr>
-          <td data-title="Date">19/2/1993<br/>Tuesday</td>
-          <td data-title="Name">Maha-Shivratri</td>
+          <td data-title="Date">29/05/2018</td>
           <td data-title="Details/Retiauls">
-            Birth Of Lord Shiva
+            Punam
           </td>
-          <td data-title="More Info"><a href="#">Link</a></td>
+        </tr>
+        <tr>
+          <td data-title="Date">28/06/2018</td>
+          <td data-title="Details/Retiauls">
+            Punam
+          </td>
+        </tr>
+        <tr>
+          <td data-title="Date">27/07/2018</td>
+          <td data-title="Details/Retiauls">
+            Punam
+          </td>
+        </tr>
+        <tr>
+          <td data-title="Date">26/08/2018</td>
+          <td data-title="Details/Retiauls">
+            Punam
+          </td>
+        </tr>
+        <tr>
+          <td data-title="Date">25/09/2018</td>
+          <td data-title="Details/Retiauls">
+            Punam
+          </td>
+        </tr>
+        <tr>
+          <td data-title="Date">24/10/2018</td>
+          <td data-title="Details/Retiauls">
+            Punam
+          </td>
+        </tr>
+        <tr>
+          <td data-title="Date">23/11/2018</td>
+          <td data-title="Details/Retiauls">
+            Punam
+          </td>
+        </tr>
+        <tr>
+          <td data-title="Date">22/12/2018</td>
+          <td data-title="Details/Retiauls">
+            Punam
+          </td>
         </tr>
       </tbody>
     </table>
