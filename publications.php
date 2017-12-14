@@ -104,13 +104,14 @@ include('header.php');
 				<div class = "span9">
 
 					<div class="info-text">
-						<h3>Brushed- Responsive One Page Template</h3>
-						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas neque diam, luctus at laoreet in, auctor ut tellus. Etiam enim lacus, ornare et tempor, rhoncus rhoncus sem. Aliquam volutpat arcu et nibh mollis eleifend pharetra lorem scelerisque. Donec vel enim purus, id viverra neque. Cras in velit ante, eget pellentesque sem. Duis tincidunt erat quam. </p>
+						<h3>Shri Bahuchar Stavan Mala</h3>
+						<p>This book has many different prayers of Maa. This has many different Stuti, Garba, Anand no Garbo, Bahuchar Bavni and Many Aartis many of whcih are written by Shri VallabhDhola. This book is completely in Gujarati and is published by Bhakt VallabhDhola family.
+						</p>
 					</div>
-					<a class="button" target="_blank" href="">Purchase</a> 
+					<a class="button" target="_blank" href="">Contact us for more info</a> 
 				</div>  
 				<div class="info-block">
-					<img class = "span3 publications" src="_include/img/profile/pub1.jpg" alt="John Doe">
+					<img class = "span3 publications" src="_include/img/profile/pub2.jpg" alt="John Doe">
 				</div>
 			</div>
 			<!-- End Information Block -->
@@ -120,10 +121,13 @@ include('header.php');
 				<div class = "span9">
 
 					<div class="info-text">
-						<h3>Brushed- Responsive One Page Template</h3>
-						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas neque diam, luctus at laoreet in, auctor ut tellus. Etiam enim lacus, ornare et tempor, rhoncus rhoncus sem. Aliquam volutpat arcu et nibh mollis eleifend pharetra lorem scelerisque. Donec vel enim purus, id viverra neque. Cras in velit ante, eget pellentesque sem. Duis tincidunt erat quam. </p>
+						<h3>The Song of Divine Ecstasy</h3>
+						<p>This book provides detailed introduction and history of how Anand No Garbo was 
+						started by Shri Bhakt VallabhDhola. Also has complete Anand No Garbo with 
+						detailed meaning of each line in english. This book is written completely in English and is published by Bhakt VallabhDhola family.
+						</p>
 					</div>
-					<a class="button" target="_blank" href="">Purchase</a> 
+					<a class="button" target="_blank" href="">Contact us for more info</a> 
 				</div>  
 				<div class="info-block">
 					<img class = "span3 publications" src="_include/img/profile/pub1.jpg" alt="John Doe">
@@ -131,21 +135,7 @@ include('header.php');
 			</div>
 			<!-- End Information Block -->		
 			<div class="row-blank"></div>
-			<!-- Information Block -->
-			<div class="row">
-				<div class = "span9">
-
-					<div class="info-text">
-						<h3>Brushed- Responsive One Page Template</h3>
-						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas neque diam, luctus at laoreet in, auctor ut tellus. Etiam enim lacus, ornare et tempor, rhoncus rhoncus sem. Aliquam volutpat arcu et nibh mollis eleifend pharetra lorem scelerisque. Donec vel enim purus, id viverra neque. Cras in velit ante, eget pellentesque sem. Duis tincidunt erat quam. </p>
-					</div>
-					<a class="button" target="_blank" href="">Purchase</a> 
-				</div>  
-				<div class="info-block">
-					<img class = "span3 publications" src="_include/img/profile/pub1.jpg" alt="John Doe">
-				</div>
-			</div>
-			<!-- End Information Block -->
+			
 		</div>
 	</div>
 	<!-- End About Section -->

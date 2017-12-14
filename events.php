@@ -25,89 +25,36 @@ include('header.php');
       </thead>
       <tbody>
         <tr>
-          <td data-title="Date">03/12/2017</td>
+          <td data-title="Date">Jan 1st, 2018</td>
           <td data-title="Details/Retiauls">
-            Punam
+            Poshi Purnima - Magh Snan Begins
           </td>
         </tr>
         <tr>
-          <td data-title="Date">02/01/2018</td>
+          <td data-title="Date">Jan 31st, 2018</td>
           <td data-title="Details/Retiauls">
-            Punam
+            Magh Purnima - Magh Snan Ends
           </td>
         </tr>
         <tr>
-          <td data-title="Date">31/01/2018</td>
+          <td data-title="Date">March 1st, 2018</td>
           <td data-title="Details/Retiauls">
-            Punam
+            Fagan Purnima - Holi
           </td>
         </tr>
         <tr>
-          <td data-title="Date">02/03/2018</td>
+          <td data-title="Date">March 31st, 2018</td>
           <td data-title="Details/Retiauls">
-            Punam
+            Chaitri Purnima - Hanuman Jayanti
           </td>
         </tr>
         <tr>
-          <td data-title="Date">31/03/2018</td>
+          <td data-title="Date">April 30th, 2018</td>
           <td data-title="Details/Retiauls">
-            Punam
+            Vaishakhi Purnima
           </td>
         </tr>
-        <tr>
-          <td data-title="Date">30/04/2018</td>
-          <td data-title="Details/Retiauls">
-            Punam
-          </td>
-        </tr>
-        <tr>
-          <td data-title="Date">29/05/2018</td>
-          <td data-title="Details/Retiauls">
-            Punam
-          </td>
-        </tr>
-        <tr>
-          <td data-title="Date">28/06/2018</td>
-          <td data-title="Details/Retiauls">
-            Punam
-          </td>
-        </tr>
-        <tr>
-          <td data-title="Date">27/07/2018</td>
-          <td data-title="Details/Retiauls">
-            Punam
-          </td>
-        </tr>
-        <tr>
-          <td data-title="Date">26/08/2018</td>
-          <td data-title="Details/Retiauls">
-            Punam
-          </td>
-        </tr>
-        <tr>
-          <td data-title="Date">25/09/2018</td>
-          <td data-title="Details/Retiauls">
-            Punam
-          </td>
-        </tr>
-        <tr>
-          <td data-title="Date">24/10/2018</td>
-          <td data-title="Details/Retiauls">
-            Punam
-          </td>
-        </tr>
-        <tr>
-          <td data-title="Date">23/11/2018</td>
-          <td data-title="Details/Retiauls">
-            Punam
-          </td>
-        </tr>
-        <tr>
-          <td data-title="Date">22/12/2018</td>
-          <td data-title="Details/Retiauls">
-            Punam
-          </td>
-        </tr>
+        
       </tbody>
     </table>
   </div>
