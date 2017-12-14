@@ -25,10 +25,10 @@ include('header.php');
 				<div class="col m11 teal lighten-5 z-depth-2 card-panel">
 					<div>
 						<h4>AANAND NO GARBO, A LIVING LEGEND - આનંદ નો ગરબો</h4>
-						<p class="flow-text">I want to tell the tale of my holy forefathers, the story of Divine love, and devotion, the tale of miraculous experiences of the twin brothers Vallabh and Dhola which was handed over to us, told over and over again from parents to children (also found in manuscripts) who carried forward this tale and tried to live as worthly children who inherited this holy tradition and carried it forward from generation to generation. The recitation of Garba and other spiritual practices still continue.
+						<p class="flow-text">I want to tell the tale of my holy forefathers, the story of Divine love, and devotion, the tale of miraculous experiences of the twin brothers Vallabh and Dhola which was handed over to us, told over and over again from parents to children (also found in manuscripts) who carried forward this tale and tried to live as worthy children who inherited this holy tradition and carried it forward from generation to generation. The recitation of Garba and other spiritual practices still continue.
 							Even today we have the original holy shrine of Mother Divine in Chumal Chachar in Bahucharaji(બહુચરાજી) Village in front of the big temple of the Mother built later by a king.
 							Even today, we have in today's Ahmedabad city, in Navapura area, the temple where Bhakta Vallabh & Dhola had their experiences.
-							Even today, Thousands of people recite the Garba... Let me narrate the story of my holy ancesters...
+							Even today, Thousands of people recite the Garba... Let me narrate the story of my holy ancestors...
 						</p>
 
 
@@ -39,7 +39,7 @@ include('header.php');
 					<p class="flow-text">There lived in the city Rajnagar, (present Ahmedabad), Gujarat, a brahmin couple Shri Hari Bhatt and Shrimati Fulkunvarbai. They were 'Bhatt Mevada' brahmins.
 						They were devotees of mother Bahuchara and lived a simple life, worshiping the Divine Mother everyday and keeping her holy image in their hearts, with her holy name in their minds day and night.
 						They were graced with the birth of twin boys in Vikram Samvat 1696 Aso Sud 8th. One was called 'Vallabharam' and the other 'Dholaram'.
-						When they were five, they were sent to Shri Paramanand Brahmchari, a learned pandit staying nearby in a simple hut. However hard he tried to teach, with love and persuation, the boys did not respond. They were not interested in this kind of knowledge. They were interested in the Divine Mother and the knowledge that helped to reach Her. They were sent back home by the master.
+						When they were five, they were sent to Shri Paramanand Brahmchari, a learned pandit staying nearby in a simple hut. However hard he tried to teach, with love and persuasion, the boys did not respond. They were not interested in this kind of knowledge. They were interested in the Divine Mother and the knowledge that helped to reach Her. They were sent back home by the master.
 					</p>
 				</div>
 				<div>
@@ -49,10 +49,10 @@ include('header.php');
 						They were overwhelmed, almost speechless. Again and again, The Mother offered to fulfill their wish.
 						"O Mother! Our only wish is to be blessed by the experience of your eternal presence and the everlasting bliss and joy that this brings to us. How can we ever ask for anything less?"
 						The Divine Mother asked them to sing of this bliss and joy, to the whole world, to compose poetry in her praise.
-						They humply told her that they were illiterate, they had no knowledge of metre and verse, how can they sing her praise through poetry?
-						The Divine Mother touched the tip of their toungues, blessing them with Divine poetic powers and disappeared.
+						They humbly told her that they were illiterate, they had no knowledge of metre and verse, how can they sing her praise through poetry?
+						The Divine Mother touched the tip of their tongues, blessing them with Divine poetic powers and disappeared.
 
-						This Divine Touch on the toungue and the first couplet of 'Anand no Garbo' was born. Vallabha Dhola sang of this 'Aanand'
+						This Divine Touch on the tongue and the first couplet of 'Anand no Garbo' was born. Vallabha Dhola sang of this 'Aanand'
 						Aai Aaj Mune Aananda, Vadhyo Ati Ghano Maa,
 						Gaava Graba Chhand, Bahuchar Maat Tono Maa.
 						Today O Mother Divine, I experience this great joy, this Divine bliss, O Mother Bahuchara, so I sing your praise in the form and metre of Garba, O Mother!
