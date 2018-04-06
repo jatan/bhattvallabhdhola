@@ -48,7 +48,8 @@ BVD.listenerMenu = function(){
 ================================================== */
 
 BVD.slider = function(){
-	if($('#index').hasClass('current')){
+	// if($('#index').hasClass('current'))
+	{
 		$("body").css("overflow", "hidden");
 		$.supersized({
 		// Functionality
