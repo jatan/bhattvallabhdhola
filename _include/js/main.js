@@ -387,7 +387,7 @@ BVD.toolTip = function(){
 BVD.fixNav = function(){
 	var destination = window.location.pathname.split('/').slice(-1)[0];
 	if(destination==''){
-		destination = 'index.html';
+		destination = 'index.php';
 	}
 	var nav = $("#menu a");
 	for (var i = nav.length - 1; i >= 0; i--) {
