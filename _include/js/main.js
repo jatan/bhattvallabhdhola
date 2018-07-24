@@ -82,10 +82,10 @@ BVD.slider = function(){
 		thumbnail_navigation    :   0,			// Thumbnail navigation
 		slides 					:  	[			// Slideshow Images
 											// {image : '_include/img/slider-images/image01.jpg', title : '', thumb : '', url : ''},
-											// {image : '_include/img/slider-images/image02.jpg', title : '', thumb : '', url : ''},
+											// {image : '_include/img/slider-images/13.jpg', title : '', thumb : '', url : ''},
 											{image : '_include/img/slider-images/image01.jpg', title : '', thumb : '', url : ''},
 											{image : '_include/img/slider-images/3.jpg', title : '', thumb : '', url : ''},
-											// {image : '_include/img/slider-images/2.jpg', title : '', thumb : '', url : ''},
+											{image : '_include/img/slider-images/13.jpg', title : '', thumb : '', url : ''},
 									],
 									
 		// Theme Options			   
